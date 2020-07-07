@@ -4,8 +4,8 @@ Customer churn prediction with using Telecom Churn Dataset
 Algorithms that have been tested are:
 - Gradient Boosted Tree
 - Deep Learning
-– Random Forest
-– Decision Tree
+- Random Forest
+- Decision Tree
 
 ![image](https://github.com/hmyenilmez24/Customer-Churn-Prediction-with-RapidMiner/blob/master/image.png)
 
