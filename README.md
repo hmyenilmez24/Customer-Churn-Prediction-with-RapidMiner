@@ -7,7 +7,7 @@ Algorithms that have been tested are:
 - Random Forest
 - Decision Tree
 
-![image](https://github.com/hmyenilmez24/Customer-Churn-Prediction-with-RapidMiner/blob/master/image.png)
+![best](https://github.com/hmyenilmez24/Customer-Churn-Prediction-with-RapidMiner/blob/master/best.png)
 
 
 
